@@ -46,6 +46,11 @@ Testing can be done in a browser or Insomnia app.
 
 [Insomnia testing.webm](https://github.com/Lishakuinkel/E-commerce-site-using-Express.js/assets/130411719/e51d9736-0e1d-4b85-bff3-ff3086d53b09)
 
+
+## Contributing
+Contributing is welcomed! Please submit a pull request.
+
+
 ## Resources
 
 https://www.npmjs.com/package/sequelize
@@ -55,3 +60,9 @@ https://www.w3schools.com/nodejs/nodejs_mysql.asp
 https://www.npmjs.com/package/mysql
 
 https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs/Introduction
+
+
+## Contact me
+Email me at ltkuinkel@gmail.com
+
+My github is https://github.com/Lishakuinkel
