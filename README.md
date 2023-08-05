@@ -11,18 +11,32 @@ Run 'npm i' in CLI
 
 ## Usage
 
-Run 'mysql -u root -p' in CLI
-
-When prompted type in your MySQL password
-
-
-Run 'source db/schema.sql'
-
-exit
-
-Run 'npm run seed'
-
-Run 'npm start'
+First, install all dependencies:
+```
+npm install
+```
+Next, create a .env file in the root directory and insert your db config:
+```
+DB_NAME='blog_db'
+DB_USER='root'
+DB_PASSWORD='Your Password'
+```
+Assuming you have mysql setup, run this command and enter your password:
+```
+mysql -u root -p
+```
+Then you need to initiate the db/schema:
+```
+source db/schema.sql
+```
+Exit the mysql cli and run the seed script:
+```
+npm run seed
+```
+Finally, you can run the application:
+```
+npm start
+```
 
 Testing can be done in a browser or Insomnia app. 
 
