@@ -30,6 +30,7 @@ Testing can be done in a browser or Insomnia app.
 ## Walkthrough video
 [Db seeding.webm](https://github.com/Lishakuinkel/E-commerce-site-using-Express.js/assets/130411719/bdedbb49-5039-4817-88f7-8f1af6228ff4)
 
+[Insomnia testing.webm](https://github.com/Lishakuinkel/E-commerce-site-using-Express.js/assets/130411719/e51d9736-0e1d-4b85-bff3-ff3086d53b09)
 
 
 ## Getting Started
